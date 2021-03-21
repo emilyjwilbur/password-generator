@@ -1,3 +1,4 @@
+![Screen Shot 2021-03-20 at 11 43 13 PM](https://user-images.githubusercontent.com/79462454/111892983-13047d00-89d6-11eb-811e-100a2029eef8.png)
 # password-generator
 
 ## User Story
