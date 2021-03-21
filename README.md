@@ -28,10 +28,19 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-<h1> The Process
+<h1> The Process </h1>
 
 - Defined variables
 - googled converting strings to arrays to make accessing each character easier
 - googled getRandomIndex, Math.floor, Math.random etc. 
+
+Screenshots (html)
+![HTML](https://user-images.githubusercontent.com/79462454/111892916-de90c100-89d5-11eb-820d-abbc5b4e0a1a.png)
+
+Screenshots JS
+![JS1](https://user-images.githubusercontent.com/79462454/111892919-e3ee0b80-89d5-11eb-9875-f24020691d9b.png)
+
+![JS2](https://user-images.githubusercontent.com/79462454/111892920-e81a2900-89d5-11eb-9284-14840a3c6403.png)
+
 
 
