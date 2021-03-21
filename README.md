@@ -32,8 +32,10 @@ THEN the password is either displayed in an alert or written to the page
 <h1> The Process </h1>
 
 - Defined variables
-- googled converting strings to arrays to make accessing each character easier
+- googled .split to convert strings to arrays to make accessing each character easier
 - googled getRandomIndex, Math.floor, Math.random etc. 
+- googled how to add values to an array, examples given of push() and how to use it
+- googled for loop to controll the amount of characters wanted in the generated password
 
 Screenshots (html)
 ![HTML](https://user-images.githubusercontent.com/79462454/111892916-de90c100-89d5-11eb-820d-abbc5b4e0a1a.png)
