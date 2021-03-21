@@ -11,6 +11,11 @@ let newPassword = [];
 
 // Write password to the #password input
 function writePassword() {
+    
+    var passwordText = document.querySelector("#password");
+    passwordText.value = '';
+    
+    
     let passwordLength = prompt('How long would you like the password to be? (Must be greater than 8 and less than 128');
     if(isNaN(passwordLength)){
         alert('Password must be a number');
@@ -53,8 +58,6 @@ function writePassword() {
         newPassword.push(newCharacter);
     }
 
-
-  var passwordText = document.querySelector("#password");
 
   passwordText.value = newPassword.join('');
 }
