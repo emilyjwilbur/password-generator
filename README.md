@@ -44,4 +44,11 @@ Screenshots JS
 ![JS2](https://user-images.githubusercontent.com/79462454/111892920-e81a2900-89d5-11eb-9284-14840a3c6403.png)
 
 
+Installation:
+
+The project was uploaded to GitHub at the following repository: https://github.com/emilyjwilbur/password-generator
+
+You can access the deployed application with the GitHup Pages link: https://emilyjwilbur.github.io/password-generator/.
+
+
 
