@@ -59,6 +59,21 @@ function writePassword() {
   passwordText.value = newPassword.join('');
 }
 
+// Add event listener to generate button
+generateBtn.addEventListener("click", writePassword);
+function generateCharacter() {
+   let firstIndex = getRandomIndex(passwordCharacters.length - 1);
+   let characterSet = passwordCharacters[firstIndex];
+   let secondIndex = getRandomIndex(characterSet.length - 1);
+   return characterSet[secondIndex];
+   
+}
+const getRandomIndex = (max) => {
+    return Math.floor(Math.random() * (max + 1));
+}
+
+
+
 
 
 
