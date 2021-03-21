@@ -41,9 +41,8 @@ Screenshots (html)
 ![HTML](https://user-images.githubusercontent.com/79462454/111892916-de90c100-89d5-11eb-820d-abbc5b4e0a1a.png)
 
 Screenshots JS
-![JS1](https://user-images.githubusercontent.com/79462454/111892919-e3ee0b80-89d5-11eb-9875-f24020691d9b.png)
-
-![JS2](https://user-images.githubusercontent.com/79462454/111892920-e81a2900-89d5-11eb-9284-14840a3c6403.png)
+<img width="1210" alt="Screen Shot 2021-03-21 at 10 44 09 AM" src="https://user-images.githubusercontent.com/79462454/111909145-7ae8b100-8a32-11eb-9d5c-d6c63f148da9.png">
+<img width="1215" alt="Screen Shot 2021-03-21 at 10 44 23 AM" src="https://user-images.githubusercontent.com/79462454/111909147-7cb27480-8a32-11eb-933d-34a78a339c54.png">
 
 
 Installation:
