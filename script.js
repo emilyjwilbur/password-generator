@@ -1,14 +1,11 @@
-// Assignment Code
-var generateBtn = document.querySelector("#generate");
+// Assignment Code (converted strings to arrays to access characters more easily)
+var specialCharArray = ' !"#$%&\'()*+,-./:;<=>?@[\]^_`{|}~'.split('');
+var numberArray = '1234567890'.split('');
+var lowerCaseArray = 'abcdefghijklmnopqrstuvwxyz'.split('');
+var upperCaseArray = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
-// Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
-  var passwordText = document.querySelector("#password");
-
-  passwordText.value = password;
-
+document.getElementById('generate').addEventListener('click'()) =>
+{
+    var generatedPassword = []; //array holding the generated password
+    
 }
-
-// Add event listener to generate button
-generateBtn.addEventListener("click", writePassword);
