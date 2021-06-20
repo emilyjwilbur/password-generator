@@ -29,20 +29,11 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-<h1> The Process </h1>
 
-- Defined variables
-- googled .split to convert strings to arrays to make accessing each character easier
-- googled getRandomIndex, Math.floor, Math.random etc. 
-- googled how to add values to an array, examples given of push() and how to use it
-- googled for loop to controll the amount of characters wanted in the generated password
 
 Screenshots (html)
 ![HTML](https://user-images.githubusercontent.com/79462454/111892916-de90c100-89d5-11eb-820d-abbc5b4e0a1a.png)
 
-Screenshots JS
-<img width="1210" alt="Screen Shot 2021-03-21 at 10 44 09 AM" src="https://user-images.githubusercontent.com/79462454/111909145-7ae8b100-8a32-11eb-9d5c-d6c63f148da9.png">
-<img width="1215" alt="Screen Shot 2021-03-21 at 10 44 23 AM" src="https://user-images.githubusercontent.com/79462454/111909147-7cb27480-8a32-11eb-933d-34a78a339c54.png">
 
 
 Installation:
